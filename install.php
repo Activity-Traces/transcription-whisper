@@ -2,7 +2,7 @@
 require "Classes/sql.php";
 $sql = new sql;
 
-echo "créer le compte admin";
+echo "créer le compte admin test again";
 
 
 $isAdded =
